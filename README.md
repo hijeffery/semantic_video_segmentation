@@ -17,6 +17,9 @@ A collection of resources for semantic video segmentation.
 # Codes:
 [DenseCRF](http://googledrive.com/host/0B6qziMs8hVGieFg0UzE0WmZaOW8/code/densecrf_v_2_2.zip), initially used for image semantic segmentation. Many following  works have made modifications for video usage.
 
+[Semantic Optical Flow](https://arxiv.org/pdf/1603.03911.pdf)
+
 # Other related topics:
 [semantic image segmentation](https://raw.githubusercontent.com/mrgloom/Semantic-Segmentation-Evaluation/master/README.md)
+
 [scene parsing]()
