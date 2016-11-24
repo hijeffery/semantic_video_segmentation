@@ -19,3 +19,4 @@ A collection of resources for semantic video segmentation.
 
 # Other related topics:
 [semantic image segmentation](https://raw.githubusercontent.com/mrgloom/Semantic-Segmentation-Evaluation/master/README.md)
+[scene parsing]()
